@@ -7,7 +7,7 @@ Web server : Nginx
 
 Database : MySQL
 
-Rumtime : PHP
+Rumtime : PHP or Node.js
 
 API : JSON
 
