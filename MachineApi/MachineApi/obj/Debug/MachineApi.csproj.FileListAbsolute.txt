@@ -1,0 +1,9 @@
+E:\NBTC\MachineAPI\MachineApi\MachineApi\bin\Debug\MachineApi.exe.config
+E:\NBTC\MachineAPI\MachineApi\MachineApi\obj\Debug\MachineApi.csprojResolveAssemblyReference.cache
+E:\NBTC\MachineAPI\MachineApi\MachineApi\obj\Debug\MachineApi.Form1.resources
+E:\NBTC\MachineAPI\MachineApi\MachineApi\obj\Debug\MachineApi.Properties.Resources.resources
+E:\NBTC\MachineAPI\MachineApi\MachineApi\obj\Debug\MachineApi.csproj.GenerateResource.Cache
+E:\NBTC\MachineAPI\MachineApi\MachineApi\bin\Debug\MachineApi.exe
+E:\NBTC\MachineAPI\MachineApi\MachineApi\bin\Debug\MachineApi.pdb
+E:\NBTC\MachineAPI\MachineApi\MachineApi\obj\Debug\MachineApi.exe
+E:\NBTC\MachineAPI\MachineApi\MachineApi\obj\Debug\MachineApi.pdb
